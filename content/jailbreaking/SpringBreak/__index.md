@@ -43,9 +43,6 @@ You can read the writeup [here](https://penguins184.xyz/blog/springbreak-jailbre
                 <p class="note">
                     <b>Filler files may make this process FAIL.</b> This process creates thousands of nested folders to work on your Kindle, if there is not enough space it won't work! Preferably, leave more space and don't use Wi-Fi. Also, do it fast.
                 </p>
-                <p class="warning">
-                    Use MacOS? You will have to compile the binaries <a href="https://github.com/KindleModding/SpringBreak#build">from source</a>. We strongly advise against using MacOS for ease-of-use and due to compatibility issues.
-                </p>
             </div>
         </div>
         <div class="step">
@@ -92,6 +89,10 @@ You can read the writeup [here](https://penguins184.xyz/blog/springbreak-jailbre
                 <div class="version-block">
                     <p class="version-label">Linux:</p>
                     <p><code>chmod +x ./springbreak-linux && ./springbreak-linux</code></p>
+                </div>
+                <div class="version-block">
+                    <p class="version-label">MacOS:</p>
+                    <p>Run this whole snippet in a terminal: <code style="text-wrap: wrap; overflow-wrap: anywhere;">curl -L https://github.com/KindleModding/SpringBreak/releases/latest/download/springbreak.zip -o springbreak.zip && unzip springbreak.zip && cd springbreak && chmod +x ./springbreak-darwin && ./springbreak-darwin</code></p>
                 </div>
             </div>
         </div>
