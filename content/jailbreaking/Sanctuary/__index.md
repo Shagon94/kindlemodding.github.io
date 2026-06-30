@@ -16,7 +16,7 @@ Sanctuary is a jailbreak released on 30/06/2026 by [Ava](https://ko-fi.com/yubai
 
 ## Prerequisites
 
-- A Kindle, running firmware 5.16.4 to 5.18.3 (inclusive) running chromium (see step 2).
+- A Kindle (works on blacklisted and unregistered devices), running firmware 5.16.4 to 5.18.3 (inclusive) running chromium (see step 2).
 - Patience, Wi-Fi connection.
 
 > [!INFO]
