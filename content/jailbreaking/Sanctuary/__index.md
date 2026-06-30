@@ -4,7 +4,6 @@ parent: Jailbreaking Your Kindle
 title: Sanctuary
 weight: 5
 slug: index
-adfree: true
 ---
 
 # Sanctuary
@@ -152,4 +151,4 @@ Sanctuary is a jailbreak released on MM/DD/2026 by [Ava](https://ko-fi.com/yubai
 - [Scam.net](https://ko-fi.com/scamdotnet1) - POC assistance, minor troubleshooting with modifying the DB file, PW5 testing.
 - [HackerDude](https://ko-fi.com/hackerdude) - JB.sh implementation assistance.
 - Gimzie - Exemplary beta tester, tested for hours and was the first successful jailbreak.
-- Thanks to all beta-testers: Gimzie, scam.net, mergen3107, TheMAXX
+- Thanks to all beta-testers: Gimzie, scam.net, mergen3107, TheMAXX, PluPlu, corniest_tortilla
