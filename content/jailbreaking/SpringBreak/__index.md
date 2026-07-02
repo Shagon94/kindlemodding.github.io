@@ -132,7 +132,7 @@ You can read the writeup [here](https://penguins184.xyz/blog/springbreak-jailbre
         <div class="step">
             <h2>Jailbreak!</h2>
             <div class="stepContent">
-                <p>SpringBreak should load, give it time and soon funky text should appear, signifying a successful jailbreak!</p>
+                <p>SpringBreak should load, wait 30sec to 1 minute to allow the jailbreak to run. After it runs you should see some text that isn't a quote signifying a successful jailbreak!</p>
                 <img src="./jailbreak.png">
             </div>
         </div>
